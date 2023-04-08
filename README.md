@@ -25,5 +25,9 @@ After some minor data cleaning[^2], I visualized the data as a dotted line chart
 ## Results
 The results show the politicization of European integration has shot in popularity since 2019. The topic has remained popular in 2022, although the numbers  have dropped from the 2021 peak.
 
+<img width="500" alt="Graph" src="https://user-images.githubusercontent.com/68019108/230740176-122cd309-457e-4da5-8d42-fc90eda555b2.png">
+
+
+
 [^1]: Note on WOS Advanced Search Field Tags. My query looks for mentions of "politicization of European integration" in the following fields: AK (author keywords), TI (title), AB (abstract). Searching for keyword mentions in other fields of the paper will likely bias the search with articles devoted to a different topic. Detailed notation can be found here: https://images.webofknowledge.com/images/help/WOS/hs_advanced_fieldtags.html.
 [^2]: Using Excel, I renamed columns and added years which had zero published articles. I could prepare a data cleaning script using Python or SQL if I had more time dedicated for this project.
